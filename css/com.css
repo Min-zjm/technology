@@ -1,0 +1,72 @@
+.banner4 img{
+	 width: 100%;
+	        display: block;
+}
+
+.content4 .p6{
+	font-size: 12px;
+	color:darkgray;
+	border-bottom:1px solid darkgray;
+	text-align: left;
+}
+.content4 .border4{
+	width: 100%;
+	height:20px;
+	background: #606060; 
+}
+.content4 ul{
+	list-style: none;
+}
+.content4 ul li{
+	/*border: 1px solid #606060;*/
+	height:355px;
+	padding-top: 26px ;
+	font-size: 12px;
+}
+.content4 ul li .all{
+	text-align: left;
+	color:gray;
+	padding-top:92px ;
+	/*padding-left:20px ;*/
+}
+.content4 ul li img{
+	float: left;
+}
+.content4 ul li .img2{
+	float: right;
+	margin-top: -243px;
+}
+.content4 ul li .img4{
+	float: right;
+	margin-top: -205px;
+}
+.content4 ul li input{
+	width: 150px;
+	height:30px;
+	background: #cb2f3c;
+    border: none;
+    border-radius: 5px;
+    color:white;
+}
+.content4 ul li input:hover{
+	cursor: pointer;
+}
+.content4 ul li .in2{
+	background:black ;0071bd
+}
+.content4 ul li .in3{
+	background:#0071bd ;
+}
+.content4 ul li .in4{
+	background:#7b7b02 ;
+}
+.content4 ul li .in5{
+	background:#860503 ;
+}
+.content4 ul li h1{
+	font-size: 14px;
+}
+.content4 ul li .p7{
+	font-size: 12px;
+	color:black;
+}

@@ -1,0 +1,66 @@
+body{
+   margin:0;
+}
+
+a,
+a:visited,   /*超链接样式 a:link 链接未点击上去时候 a:visited 链接已经点击过的 a:hover 鼠标放在链接上未点击 a:active 是介于hover visited 之间*/
+a:link{
+	     color: inherit;     /* 颜色、有无下划线*//*   a:链接*/
+	     text-decoration: none; 
+}
+
+.public {
+	width:1002px;
+	margin:0 aut
+	text-align: center;
+}
+
+.header{
+	width:100%;
+	background:#1673c8;
+	            min-height: 68px;
+	           /* background:rgba() ;*/
+	        /*//position:fixed;*/
+}
+.header .logo,
+.header .menu,
+.header .btn
+  {
+	float: left;
+  }
+.logo{
+	padding-top:6px;
+}
+.header  .menu{
+	list-style:none;
+	color: #fff;
+	padding-top: 37px;
+	           margin: 0;
+}
+.header  .menu li{
+	float: left;
+	padding: 0 20px;
+}
+.header  .btn{
+	padding-top:37px;
+}
+.header  .btn input{
+	float: left;
+}
+
+.header  .btn input[type="text"]{
+	padding:1px 15px;
+}
+.header  .btn input::-webkit-input-placeholder{
+	    color:#ccc;
+}
+.header  .btn input[type="button"]{
+	background-color:#ff8a00;
+	border:none;
+	   height: 24px;
+	color:white;
+}
+
+.clear{
+	clear:both;
+}

@@ -1,0 +1,108 @@
+.banner{
+	width: 100%;
+	/*background: url(../img/product.png);*/
+}
+.banner img{
+	width:100%;
+	         display: block;   /* 有margin */
+}
+.content img{
+	width:100%;
+	padding-top: 22px;
+}
+.content{
+	width: 100%;
+	padding-bottom:50px ;
+}
+.content .borders{
+	width: 100%;
+	height:45px;
+	background: #606060; 
+}
+.content .img1{
+	width: 100%;
+}
+.content .ul1{
+	list-style: none;
+	padding-bottom: 20px;
+	
+}
+.content .ul1 img{
+	width: 46px;
+    margin-left: -1020px;
+    margin-bottom: -94px;
+}
+.content .ul1  li p{
+	color:black;
+	text-align: left;
+}
+.content .ul1  li p .span1{
+	color:#000000;
+}
+.content .ul1  .li1 p span{
+	border:1px solid gray;
+	height:20px;
+	width:70px;
+	margin-left: 8px;
+	color:cornflowerblue;
+}
+.content .ul1  .li2 p span{
+	border:1px solid gray;
+	height:20px;
+	width:70px;
+	color:cornflowerblue;
+}
+.content .ul1  li .p8{
+	color:#000000;
+	font-size: 14px;
+}
+.content .suggestion{
+	width: 100%;
+	height: 400px;
+	border-top: 53px solid #606060;
+	border-bottom: 12px solid #606060;
+	border-right:12px solid #606060;
+	border-left: 12px solid #606060;
+	background:#f5f3f0;
+	text-align: left;
+	margin-left: -9px;
+	color:grey;
+}
+.content .suggestion span{
+	color:white;
+	text-align: center;
+	display: block;
+	margin: -35px
+}
+.content .suggestion .ul2{
+	margin:79px;
+	list-style: none;
+}
+.content .suggestion .ul2 li{
+	margin:10px;
+}
+.content .suggestion .ul2 li input{
+	width:720px;
+	height:25px;
+	border:none;
+}
+.content .suggestion .ul2 .li2 input{
+	height:50px;
+}
+.content .suggestion .btn{
+	margin: 10px 370px;
+	     display: block;
+	
+}
+.content .suggestion input[type="button"]{
+	/*margin-left: 40px;*/
+	color:white;
+	background: #0c6ad3;
+	height:25px;
+	width:100px;
+	border:none;
+	/*float: left;*/
+}
+.content .suggestion .btn .btn1{
+	background:#606060 ;
+}
